@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson11tu_04\source.cpp(5): warning C4473: 'printf': 書式文字列として渡された引数が不足しています
+  d:\#c0117343\programingi\gradetwo_1st_semester\lesson11tu_04\source.cpp(5): note: プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、0 が指定されています。
+  d:\#c0117343\programingi\gradetwo_1st_semester\lesson11tu_04\source.cpp(5): note: 不足している可変個引数 1 が書式文字列 '%d' に必要です
+  Lesson11Tu_04.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson11Tu_04.exe
+  Lesson11Tu_04.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson11Tu_04.pdb (Full PDB)

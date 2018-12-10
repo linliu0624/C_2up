@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson05th_1\source.cpp(5): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  Lesson05Th_1.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson05Th_1.exe
+  Lesson05Th_1.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson05Th_1.pdb (Full PDB)

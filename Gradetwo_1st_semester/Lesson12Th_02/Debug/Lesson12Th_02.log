@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson12th_02\source.cpp(18): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Lesson12Th_02.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson12Th_02.exe
+  Lesson12Th_02.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson12Th_02.pdb (Full PDB)

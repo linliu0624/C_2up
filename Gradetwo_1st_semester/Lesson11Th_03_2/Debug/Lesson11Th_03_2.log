@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson11th_03_2\source.cpp(22): warning C4477: 'printf' : 書式文字列 '%ld' には、型 'long' の引数が必要ですが、可変個引数 1 は型 'double' です
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson11th_03_2\source.cpp(23): warning C4477: 'printf' : 書式文字列 '%ld' には、型 'long' の引数が必要ですが、可変個引数 1 は型 'double' です
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson11th_03_2\source.cpp(24): warning C4477: 'printf' : 書式文字列 '%ld' には、型 'long' の引数が必要ですが、可変個引数 1 は型 'double' です
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson11th_03_2\source.cpp(25): warning C4477: 'printf' : 書式文字列 '%ld' には、型 'long' の引数が必要ですが、可変個引数 1 は型 'double' です
+  Lesson11Th_03_2.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson11Th_03_2.exe
+  Lesson11Th_03_2.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson11Th_03_2.pdb (Full PDB)

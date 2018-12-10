@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson03th_4\source.cpp(12): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Lesson03Th_4.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson03Th_4.exe
+  Lesson03Th_4.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson03Th_4.pdb (Full PDB)

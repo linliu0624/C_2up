@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson9th_3\source.cpp(7): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson9th_3\source.cpp(22): warning C4477: 'printf' : 書式文字列 '%s' には、型 'char *' の引数が必要ですが、可変個引数 1 は型 'int' です
+  Lesson9Th_3.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson09Th_3.exe
+  Lesson9Th_3.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson09Th_3.pdb (Full PDB)

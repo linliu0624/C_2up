@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson12th_03\source.cpp(18): warning C4101: 'golden': ローカル変数は 1 度も使われていません。
+d:\#c0117343\programingi\gradetwo_1st_semester\lesson12th_03\source.cpp(17): warning C4101: 'n': ローカル変数は 1 度も使われていません。
+  Lesson12Th_03.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson12Th_03.exe
+  Lesson12Th_03.vcxproj -> D:\#C0117343\ProgramingI\Gradetwo_1st_semester\Debug\Lesson12Th_03.pdb (Full PDB)
